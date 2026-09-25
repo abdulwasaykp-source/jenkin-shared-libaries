@@ -1,3 +1,3 @@
-defcall(){
-  echo "hello dosto"
+def call() {
+    echo "Hello from Shared Library"
 }
